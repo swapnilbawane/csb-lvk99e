@@ -10,3 +10,5 @@ The Emoji interpreter app takes the input in the form of emoji and displays its 
 
 There is also a list of emojis shown, which can be clicked and their meaning is displayed.
 
+[View source code here:](https://codesandbox.io/s/emoji-interpreter-lvk99e?file=/src/App.js)
+
